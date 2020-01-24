@@ -4,7 +4,7 @@ Recommender systems are implemented everywhere on the Internet. Given the gigant
 
 The dataset consists of 3 table files: books information, books ratings and users information. Books information include the title, book ID, author, year, publisher and some links to images. Books ratings includes user ID, book ID and the rating. User information include user ID, age and location.
 
-I choose to use both a supervised algorithm Matrix Factorization and an unsupervised algorithm K-Means. These 2 methods are commonly used for recommemder systems. At the end, I would like to compare the results from the 2 methods to determine if they are consistent.
+I choose to use both a supervised algorithm Matrix Factorization and an unsupervised algorithm K-Means. These 2 methods are commonly used for recommemder systems. In the end, I will compare the results from the 2 methods to determine if they are consistent.
 
 The results show slight overlap between the 2 different methods. However, the difference is significant. The consistency could be improved if more factors are considered such as age, location, author, etc.
 
